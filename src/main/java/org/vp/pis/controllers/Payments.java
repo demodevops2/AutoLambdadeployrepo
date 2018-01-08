@@ -25,7 +25,7 @@ import org.vp.pis.domain.OBPaymentSetupResponse1;
 import org.vp.pis.model.Account;
 import org.vp.pis.model.AccountOwners;
 import org.vp.pis.model.Country;
-import org.vp.pis.model.PaymentLimits;
+import org.vp.pis.model.PaymentLimit;
 import org.vp.pis.repository.AccountOwnersRepository;
 import org.vp.pis.repository.AccountRepository;
 import org.vp.pis.repository.CountryRepository;
