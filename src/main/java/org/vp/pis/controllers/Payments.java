@@ -249,7 +249,7 @@ public class Payments {
 					}
 				}
 				/* Payment Limit Validation */
-				List<PaymentLimits> limits = new ArrayList<PaymentLimits>();
+				List<PaymentLimit> limits = new ArrayList<PaymentLimit>();
 				limits = paymentLimitsRepository.getDetailsOfPaymentLimits();
 				if (!STATUS_REJECTED.equalsIgnoreCase(status)) {
 					if (!limits.isEmpty()) {
