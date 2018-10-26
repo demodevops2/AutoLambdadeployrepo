@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hi all Welcome to CI/CD demo class"
+echo "Hi All Welcome to CI/CD demo class"
